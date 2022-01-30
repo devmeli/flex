@@ -8,6 +8,10 @@ For this one you will need to edit the HTML a little bit too. We can't be making
 
 ![desired outcome](./desired-outcome.png)
 
+## my outcome
+
+![my outcome](./flexx.png)
+
 ### Self Check
 
 - All items are centered on the page (horizontally, not vertically).
